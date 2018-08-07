@@ -29,8 +29,6 @@ This PCB is used to connect Raspberry PI and ISMT [iC880A][2] LoraWan concentrat
 [PDF download](https://raw.githubusercontent.com/XantaroDE/iC880A-Raspberry-PI/master/pictures/RPI-Lora-Gateway-Shield.sch.pdf)
 
 ## Board
-https://raw.githubusercontent.com/XantaroDE/iC880A-Raspberry-PI/master/
-
 
 **Top side**
 
@@ -49,8 +47,6 @@ You can order the PCB of this board at [elecrow][4] with the supplied gerbers.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)    
 If you want to do commercial stuff with this project, please contact [Xantaro Deutschland GmbH](https://www.xantaro.net) so we can organize an simple agreement.
-
-## links
 
  
 [1]: https://github.com/ch2i/iC880A-Raspberry-PI/
